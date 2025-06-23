@@ -1,0 +1,29 @@
+* {
+font-family: "Segoe UI", "Trebuchet MS", "Verdana", sans-serif;
+}
+
+body {
+    background-color: #FFF0F5;
+    margin: 20px;
+}
+
+h1 {
+ color:#DB7093;
+}
+
+p {
+    color :#FF69B4;
+}
+
+li {
+   color:#FF69B4;
+}
+
+a {
+    font-size: 30px;
+    color: #FF69B4;
+}
+
+a:hover {
+    color:#009688;
+}
